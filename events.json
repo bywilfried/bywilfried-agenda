@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Blind Test + Karaoké",
+    "date": "2025-10-11",
+    "time": "20:30",
+    "theme": "Les Couleurs",
+    "description": "A l'occasion d'Octobre Rose on va se faire un petit Blind Test sur les couleurs.\nPlus d'informations à venir :)",
+    "lieu": "Zig Zag Café",
+    "lieu2": "📍 73 cours de l’argonne\n🚊 Tram St Nicolas\n🚶‍♂️ 5min à pied de La Victoire",
+    "plus": "💛 Entrée libre et gratuite",
+    "reservation": "Dans la <a href=\"#reservation\">section réservation</a> juste en dessous"
+  },
+  {
+    "title": "Blind Test",
+    "date": "2025-10-04",
+    "time": "20:00",
+    "theme": "Cinéma et Séries",
+    "description": "🍿🎬Prêts à prouver que vous connaissez vos classiques… même avec les yeux fermés ? 👀 (enfin, plutôt les oreilles grandes ouvertes 🎧)\n👉 Saurez-vous reconnaître Star Wars sans sabre laser ?\n👉 Détecter Friends sans canapé orange ?\n👉 Crier « Mon précieux ! » avant même que Gollum n’apparaisse ?\n⚡ Venez tester vos connaissances ciné-séries lors d’une soirée 100% fun (costumes et déguisements encouragés… oui, même toi en pyjama licorne 🦄).\nPetit creux ? Pas de panique : il y aura de quoi grignoter 🍔🍺\nBonne humeur et fous rires garantis 🤩",
+    "lieu": "Cestas",
+    "lieu2": "📍 Salle des fêtes Cestas Réjouit",
+    "plus": "💛 Entrée libre et gratuite\nPetit creux ? Pas de panique : il y aura de quoi grignoter ",
+    "reservation": "📲 Réservation obligatoire au 06 16 36 68 27"
+  },
+  {
+    "title": "Blind Test + Karaoké",
+    "date": "2025-09-13",
+    "time": "20:30",
+    "theme": "Les Télé-crochets",
+    "description": "Le samedi 13 septembre c'est vous qui passez en prime time pour un blindtest spécial Telecrochets!\nArtistes révélés, coaches, juges, tout va y passer !\nEt comme d'habitude on poursuivra la soirée avec un karaoke !\nAttention, il démarrera à 20h45 dernier carat !\nDes consos à gagner pour les meilleurs d’entre nous vous !\nEt un karaoké pour poursuivre la soirée en beauté !\nIl est fortement conseillé de réserver vos places",
+    "lieu": "Zig Zag Café",
+    "lieu2": "📍 73 cours de l’argonne\n🚊 Tram St Nicolas\n🚶‍♂️ 5min à pied de La Victoire",
+    "plus": "💛 Entrée libre et gratuite",
+    "reservation": ""
+  },
+  {
+    "title": "Blind Test + Karaoké",
+    "date": "2025-08-30",
+    "time": "20:30",
+    "theme": "Thèmes Mystères",
+    "description": "Cette fois-ci, le blind test prend une tournure mystérieuse…\nPlusieurs thèmes se glisseront dans la playlist au fil de la soirée, et c’est à vous de les démasquer. 🎶\nUn jeu plein de surprises où vos oreilles seront mises à l’épreuve !\nAttention, il démarrera à 20h45 dernier carat !\nDes consos à gagner pour les meilleurs d’entre nous vous !\nEt un karaoké pour poursuivre la soirée en beauté !\nIl est fortement conseillé de réserver vos places",
+    "lieu": "Zig Zag Café",
+    "lieu2": "📍 73 cours de l’argonne\n🚊 Tram St Nicolas\n🚶‍♂️ 5min à pied de La Victoire",
+    "plus": "💛 Entrée libre et gratuite",
+    "reservation": ""
+  },
+  {
+    "title": "Blind Test + Karaoké",
+    "date": "2025-10-25",
+    "time": "20:30",
+    "theme": "Thème non déterminé",
+    "description": "",
+    "lieu": "Zig Zag Café",
+    "lieu2": "📍 73 cours de l’argonne\n🚊 Tram St Nicolas\n🚶‍♂️ 5min à pied de La Victoire",
+    "plus": "💛 Entrée libre et gratuite",
+    "reservation": "Dans la <a href=\"#reservation\">section réservation</a> juste en dessous"
+  },
+  {
+    "title": "Blind Test + Karaoké",
+    "date": "2025-11-22",
+    "time": "20:30",
+    "theme": "Thème non déterminé",
+    "description": "",
+    "lieu": "Zig Zag Café",
+    "lieu2": "📍 73 cours de l’argonne\n🚊 Tram St Nicolas\n🚶‍♂️ 5min à pied de La Victoire",
+    "plus": "💛 Entrée libre et gratuite",
+    "reservation": "Dans la <a href=\"#reservation\">section réservation</a> juste en dessous"
+  },
+  {
+    "title": "Blind Test + Karaoké",
+    "date": "2025-12-06",
+    "time": "20:30",
+    "theme": "Thème non déterminé",
+    "description": "",
+    "lieu": "Zig Zag Café",
+    "lieu2": "📍 73 cours de l’argonne\n🚊 Tram St Nicolas\n🚶‍♂️ 5min à pied de La Victoire",
+    "plus": "💛 Entrée libre et gratuite",
+    "reservation": "Dans la <a href=\"#reservation\">section réservation</a> juste en dessous"
+  },
+  {
+    "title": "Blind Test + Karaoké",
+    "date": "2025-12-20",
+    "time": "20:30",
+    "theme": "Thème non déterminé",
+    "description": "",
+    "lieu": "Zig Zag Café",
+    "lieu2": "📍 73 cours de l’argonne\n🚊 Tram St Nicolas\n🚶‍♂️ 5min à pied de La Victoire",
+    "plus": "💛 Entrée libre et gratuite",
+    "reservation": "Dans la <a href=\"#reservation\">section réservation</a> juste en dessous"
+  }
+]
