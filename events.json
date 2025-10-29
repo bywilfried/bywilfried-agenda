@@ -11,15 +11,15 @@
     "reservation": "Il est fortement conseillé de réserver vos places soit en MP à byWilfried <a href=\"https://www.facebook.com/bywilfried\" target=\"_blank\">sur Facebook</a> ou <a href=\"https://www.instagram.com/bywilfried/\" target=\"_blank\">sur Instagram</a>.\nIl est aussi possible de réserver via le formulaire de la <a href=\"#reservation\">section réservation</a> juste en dessous"
   },
   {
-    "title": "Blind Test",
-    "date": "2025-10-04",
+    "title": "Karaoké",
+    "date": "2025-12-06",
     "time": "20:00",
-    "theme": "Cinéma et Séries",
-    "description": "🍿🎬Prêts à prouver que vous connaissez vos classiques… même avec les yeux fermés ? 👀 (enfin, plutôt les oreilles grandes ouvertes 🎧)\n👉 Saurez-vous reconnaître Star Wars sans sabre laser ?\n👉 Détecter Friends sans canapé orange ?\n👉 Crier « Mon précieux ! » avant même que Gollum n’apparaisse ?\n⚡ Venez tester vos connaissances ciné-séries lors d’une soirée 100% fun (costumes et déguisements encouragés… oui, même toi en pyjama licorne 🦄).\nPetit creux ? Pas de panique : il y aura de quoi grignoter 🍔🍺\nBonne humeur et fous rires garantis 🤩",
+    "theme": "",
+    "description": "Plus d'informations à veni",
     "lieu": "Cestas",
     "lieu2": "📍 Salle des fêtes Cestas Réjouit",
     "plus": "💛 Entrée libre et gratuite\nPetit creux ? Pas de panique : il y aura de quoi grignoter ",
-    "reservation": "📲 Réservation obligatoire au 06.16.36.68.27"
+    "reservation": ""
   },
   {
     "title": "Blind Test + Karaoké",
@@ -67,7 +67,29 @@
   },
   {
     "title": "Blind Test + Karaoké",
-    "date": "2025-12-06",
+    "date": "2025-12-05",
+    "time": "20:30",
+    "theme": "Thème non déterminé",
+    "description": "",
+    "lieu": "Zig Zag Café",
+    "lieu2": "📍 73 cours de l’argonne\n🚊 Tram St Nicolas\n🚶‍♂️ 5min à pied de La Victoire",
+    "plus": "💛 Entrée libre et gratuite",
+    "reservation": "Dans la <a href=\"#reservation\">section réservation</a> juste en dessous"
+  },
+  {
+    "title": "Blind Test",
+    "date": "2025-10-04",
+    "time": "20:00",
+    "theme": "Cinéma et Séries",
+    "description": "🍿🎬Prêts à prouver que vous connaissez vos classiques… même avec les yeux fermés ? 👀 (enfin, plutôt les oreilles grandes ouvertes 🎧)\n👉 Saurez-vous reconnaître Star Wars sans sabre laser ?\n👉 Détecter Friends sans canapé orange ?\n👉 Crier « Mon précieux ! » avant même que Gollum n’apparaisse ?\n⚡ Venez tester vos connaissances ciné-séries lors d’une soirée 100% fun (costumes et déguisements encouragés… oui, même toi en pyjama licorne 🦄).\nPetit creux ? Pas de panique : il y aura de quoi grignoter 🍔🍺\nBonne humeur et fous rires garantis 🤩",
+    "lieu": "Cestas",
+    "lieu2": "📍 Salle des fêtes Cestas Réjouit",
+    "plus": "💛 Entrée libre et gratuite\nPetit creux ? Pas de panique : il y aura de quoi grignoter ",
+    "reservation": "📲 Réservation obligatoire au 06.16.36.68.27"
+  },
+  {
+    "title": "Blind Test + Karaoké",
+    "date": "2025-12-19",
     "time": "20:30",
     "theme": "Thème non déterminé",
     "description": "",
